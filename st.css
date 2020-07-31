@@ -38,7 +38,8 @@ header{
   grid-row: 1 / 2;
   position: sticky;
   overflow-y: auto;
-  height: calc(100vh - 60px);
+  height: 15000px;
+  width: 15000px;
   box-sizing: border-box;
   background: hotpink;
 }
@@ -47,4 +48,21 @@ header{
   grid-row: 1 / 2;
   height: calc(100vh - 60px);
   overflow-y: auto;
+}
+.example {
+  position: relative;
+  top:500px;
+  left:200px;
+  width: 1000px;
+  height: 50px;
+  overflow: scroll;
+  background: skyblue;
+}
+.nakami {
+  position: relative;
+  width: 100px;
+  height: 50px;
+  left:200px;
+  overflow: scroll;
+  background: skyblue;
 }
