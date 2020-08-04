@@ -224,5 +224,58 @@ body{
 .nakami_shita_3_2:hover{
   background-image: url("./Image/24.jpg");
 }
-
+.nakami_shita_4{
+  left:500px;
+  position: relative;
+  width: 1500px;
+  height: 350px;
+  overflow: scroll;
+  background-color: black;
+}
+.nakami_shita_4_2{
+  position: relative;
+  width: 1500px;
+  height: 1000px;
+  overflow: scroll;
+  background-image: url("./Image/27.jpg");
+}
+.nakami_shita_4_2:hover{
+  background-image: url("./Image/26.jpg");
+}
+.nakami_shita_5{
+  left:500px;
+  position: relative;
+  width: 1000px;
+  height: 350px;
+  overflow: scroll;
+  background-color: black;
+}
+.nakami_shita_5_2{
+  position: relative;
+  width: 1000px;
+  height: 1000px;
+  overflow: scroll;
+  background-image: url("./Image/29.jpg");
+}
+.nakami_shita_5_2:hover{
+  background-image: url("./Image/28.jpg");
+}
+.nakami_shita_6{
+  left:500px;
+  position: relative;
+  width: 500px;
+  height: 350px;
+  overflow: scroll;
+  background-color: black;
+}
+.nakami_shita_6_2{
+  position: relative;
+  width: 500px;
+  height: 1000px;
+  overflow: scroll;
+  background-image: url("./Image/31.jpg");
+}
+.nakami_shita_6_2:hover{
+  background-image: url("./Image/30.jpg");
+}
 
