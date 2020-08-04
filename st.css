@@ -126,7 +126,46 @@ body{
   background-image: url("./Image/8.jpg");
 }
 .end3_2:hover{
-  background-image: url("./Image/7.jpg");
+  background-image: url("./Image/14.jpg");
+}
+.end3{
+  position: relative;
+  left: 1500px;
+  top:90px;
+  width: 360px;
+  height: 260px;
+  overflow: scroll;
+  background-color: black;
+}
+.end3_2{
+  position: relative;
+  
+  width: 360px;
+  height: 700px;
+  overflow: scroll;
+  background-image: url("./Image/15.jpg");
+}
+.end3_2:hover{
+  background-image: url("./Image/14.jpg");
+}
+.end4{
+  position: relative;
+  left: 1500px;
+  top:110px;
+  width: 360px;
+  height: 270px;
+  overflow: scroll;
+  background-color: black;
+}
+.end4_2{
+  position: relative;
+  width: 360px;
+  height: 700px;
+  overflow: scroll;
+  background-image: url("./Image/17.jpg");
+}
+.end4_2:hover{
+  background-image: url("./Image/16.jpg");
 }
 
 
