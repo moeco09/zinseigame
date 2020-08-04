@@ -5,64 +5,34 @@ body{
   display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: 60px 1fr;
+  background-color: yellow;
 }
 
-/* header */
-header{
-  position: sticky;
-  top: 0;
-  height: 60px;
-  background-color: #eee;
-}
 
 /* main */
-.main{
-  grid-column: 1 / 2;
-  grid-row: 2 / 3;
-  width: 100%;
-  height: calc(100vh - 60px);
-  background: pink;
-}
+
 .main-contents{
-  display: grid;
-  grid-template-columns: 240px 1fr;
-  grid-template-rows: 1fr;
-  align-items: flex-start;
-  margin: 0 auto;
-  max-width: 1200px;
-  height: 100%;
-  background: #fff;
-}
-.sidebar{
-  grid-column: 1 / 2;
-  grid-row: 1 / 2;
-  position: sticky;
-  overflow-y: auto;
-  height: 15000px;
-  width: 15000px;
-  box-sizing: border-box;
-  background: hotpink;
-}
-.main-contents-body{
-  grid-column: 2 / 3;
-  grid-row: 1 / 2;
-  height: calc(100vh - 60px);
-  overflow-y: auto;
-}
-.example {
+  margin: auto;
   position: relative;
-  top:500px;
-  left:200px;
-  width: 1000px;
-  height: 50px;
+  width: 5000px;
+  height: 3000px;
   overflow: scroll;
-  background: skyblue;
+  background-image: url("./Image/2.jpg");
 }
-.nakami {
+.example{
   position: relative;
-  width: 100px;
-  height: 50px;
-  left:200px;
+  top:0px;
+  left:1400px;
+  width: 3600px;
+  height: 3000px;
   overflow: scroll;
-  background: skyblue;
+  background-color: palevioletred;
 }
+.example2{
+  position: relative;
+  width: 3500px;
+  height: 5000px;
+  overflow: scroll;
+  background-image: url("./Image/み.jpg");
+}
+
