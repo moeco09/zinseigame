@@ -33,6 +33,60 @@ body{
   width: 3500px;
   height: 5000px;
   overflow: scroll;
-  background-image: url("./Image/み.jpg");
+  background-image: url("./Image/3.jpg");
 }
+.nakami{
+  top:1900px;
+  left:1600px;
+  position: relative;
+  width: 2000px;
+  height: 400px;
+  overflow: scroll;
+  background-color: black;
+}
+.nakami2{
+  position: relative;
+  left: 0px;
+  width: 2000px;
+  height: 1000px;
+  overflow: scroll;
+  background-image: url("./Image/5.jpg");
+}
+.end1{
+  position: relative;
+  left: 1500px;
+  top:100px;
+  width: 360px;
+  height: 260px;
+  overflow: scroll;
+  background-color: black;
+}
+.end1_2{
+  position: relative;
+  
+  width: 360px;
+  height: 700px;
+  overflow: scroll;
+  background-image: url("./Image/8.jpg");
+}
+.end1_2:hover{
+  background-image: url("./Image/7.jpg");
+}
+.end2{
+  position: relative;
+  left: 1500px;
+  top:130px;
+  width: 360px;
+  height: 260px;
+  overflow: scroll;
+  background-color: black;
+}
+.end2_2{
+  position: relative;
+  width: 360px;
+  height: 500px;
+  overflow: scroll;
+  background-color: darkmagenta;
+}
+
 
