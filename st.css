@@ -108,5 +108,25 @@ body{
   overflow: scroll;
   background-image: url("./Image/13.jpg");
 }
+.end3{
+  position: relative;
+  left: 1500px;
+  top:100px;
+  width: 360px;
+  height: 260px;
+  overflow: scroll;
+  background-color: black;
+}
+.end3_2{
+  position: relative;
+  
+  width: 360px;
+  height: 700px;
+  overflow: scroll;
+  background-image: url("./Image/8.jpg");
+}
+.end3_2:hover{
+  background-image: url("./Image/7.jpg");
+}
 
 
