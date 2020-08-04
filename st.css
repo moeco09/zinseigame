@@ -84,9 +84,29 @@ body{
 .end2_2{
   position: relative;
   width: 360px;
-  height: 500px;
+  height: 700px;
   overflow: scroll;
-  background-color: darkmagenta;
+  background-image: url("./Image/11.jpg");
+}
+.end2_2:hover{
+  background-image: url("./Image/9.jpg");
+}
+.nakami_ue{
+  top:1000px;
+  left:1600px;
+  position: relative;
+  width: 2000px;
+  height: 400px;
+  overflow: scroll;
+  background-color: black;
+}
+.nakami_ue2{
+  position: relative;
+  left: 0px;
+  width: 2000px;
+  height: 1000px;
+  overflow: scroll;
+  background-image: url("./Image/13.jpg");
 }
 
 
