@@ -5,7 +5,7 @@ body{
   display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: 60px 1fr;
-  background-color: yellow;
+  background-color: gold;
 }
 
 
@@ -23,10 +23,10 @@ body{
   position: relative;
   top:0px;
   left:1400px;
-  width: 3600px;
+  width: 3500px;
   height: 3000px;
   overflow: scroll;
-  background-color: palevioletred;
+  background-color: gold;
 }
 .example2{
   position: relative;
@@ -42,7 +42,7 @@ body{
   width: 1900px;
   height: 400px;
   overflow: scroll;
-  background-color: black;
+  background-color: gold;
 }
 .nakami2{
   position: relative;
@@ -59,7 +59,7 @@ body{
   width: 360px;
   height: 260px;
   overflow: scroll;
-  background-color: black;
+  background-color: gold;
 }
 .end1_2{
   position: relative;
@@ -79,7 +79,7 @@ body{
   width: 360px;
   height: 260px;
   overflow: scroll;
-  background-color: black;
+  background-color: gold;
 }
 .end2_2{
   position: relative;
@@ -98,7 +98,7 @@ body{
   width: 2000px;
   height: 400px;
   overflow: scroll;
-  background-color: black;
+  background-color: gold;
 }
 .nakami_ue2{
   position: relative;
@@ -115,7 +115,7 @@ body{
   width: 360px;
   height: 260px;
   overflow: scroll;
-  background-color: black;
+  background-color: gold;
 }
 .end3_2{
   position: relative;
@@ -135,7 +135,7 @@ body{
   width: 360px;
   height: 260px;
   overflow: scroll;
-  background-color: black;
+  background-color: gold;
 }
 .end3_2{
   position: relative;
@@ -155,7 +155,7 @@ body{
   width: 360px;
   height: 270px;
   overflow: scroll;
-  background-color: black;
+  background-color: gold;
 }
 .end4_2{
   position: relative;
@@ -174,7 +174,7 @@ body{
   width: 3000px;
   height: 300px;
   overflow: scroll;
-  background-color: black;
+  background-color: gold;
 }
 .nakami_shita2{
   position: relative;
@@ -193,7 +193,7 @@ body{
   width: 2500px;
   height: 350px;
   overflow: scroll;
-  background-color: black;
+  background-color: gold;
 }
 .nakami_shita_2_2{
   position: relative;
@@ -212,7 +212,7 @@ body{
   width: 2000px;
   height: 350px;
   overflow: scroll;
-  background-color: black;
+  background-color: gold;
 }
 .nakami_shita_3_2{
   position: relative;
@@ -230,7 +230,7 @@ body{
   width: 1500px;
   height: 350px;
   overflow: scroll;
-  background-color: black;
+  background-color: gold;
 }
 .nakami_shita_4_2{
   position: relative;
@@ -248,7 +248,7 @@ body{
   width: 1000px;
   height: 350px;
   overflow: scroll;
-  background-color: black;
+  background-color: gold;
 }
 .nakami_shita_5_2{
   position: relative;
@@ -266,7 +266,7 @@ body{
   width: 500px;
   height: 350px;
   overflow: scroll;
-  background-color: black;
+  background-color: gold;
 }
 .nakami_shita_6_2{
   position: relative;
